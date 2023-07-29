@@ -9,12 +9,15 @@ import 'package:location/location.dart';
 
 class MapController extends BasController {
   MapController(this.currentLocation);
-
+  RxString streetName = ''.obs;
   late LocationData currentLocation;
   late LatLng selectedLocation;
   late CameraPosition initalCameraPosition;
   RxSet<Marker> markers = <Marker>{}.obs;
+  //رفع المشروع //
+  //git init
   //git add .
+  //git commit -m 'شرح التعديلات'
   final Completer<GoogleMapController> controller =
       Completer<GoogleMapController>();
 
