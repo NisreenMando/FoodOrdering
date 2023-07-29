@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758115774760",
+    "project_id": "meal-monkey-77d82",
+    "storage_bucket": "meal-monkey-77d82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758115774760:android:26897e9031d0425d8f201d",
+        "android_client_info": {
+          "package_name": "com.example.easy_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758115774760-elb4l8tm0pde34cnjmvq4ngvt68n9ulv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcnH773cl3gAHyl6_YtLBqtCUGNxbK2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758115774760-elb4l8tm0pde34cnjmvq4ngvt68n9ulv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
